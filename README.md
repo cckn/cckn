@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### [😶 My Blog](https://www.cckn.dev/) 
+#### [😶 My Blog(old)](https://www.cckn.dev/) 
+#### [😶 My Blog(new)](https://cckn.ghost.io/) 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cckn)](https://github.com/anuraghazra/github-readme-stats)
