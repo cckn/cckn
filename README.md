@@ -9,7 +9,7 @@
 
 - **프롬프트지니 (팀 프로젝트)**: 비영어권 사용자를 위한 ChatGPT 번역 크롬 익스텐션 개발
 - **Chat GPT Prompt Generator (개인 프로젝트)**: ChatGPT 프롬프트 생성용 웹앱 개발
-- **And more...***
+- **And more...**
 
 ### [😶 블로그](https://www.cckn.dev/) 
 
